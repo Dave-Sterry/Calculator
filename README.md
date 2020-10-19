@@ -1,7 +1,4 @@
-# Portfolio Project
-<img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
-<img src="https://github.com/MaxBrockbank.png" width="200px" height="auto>
-
+# Calculator Project
 
 ### A calculator program by David Sterry and Max Brockbank updated on Oct 19 2020
 
